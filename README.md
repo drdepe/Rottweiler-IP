@@ -5,6 +5,8 @@
  <h2>***only for Linux users***</p>
 <h1>Usage:-</h1>
 <p><bold>*** MAKE SURE THAT GIT IS INSTALLED IN YOUR MACHINE*** </bold>
-<p>1-Clone the repo using: <code>git clone https://github.com/drdepe/rottweiler.git</code></p>
-<p>2-Navigate to the repo directory using: <code>cd Rottweiler-IP </code> </p>
-<p>4-Give the requiremnt 
+<p>1-Clone the repo using : <code>git clone https://github.com/drdepe/rottweiler.git</code></p>
+<p>2-Navigate to the repo directory using : <code>cd Rottweiler-IP </code> </p>
+<p>4-Make the requirments file executable using : <code>sudo chmod 700 requirements.sh </code></p>
+<p>5-Install requirements using : <code>./requirements.sh</code></p>
+ <p>6-Now you are ready to go just run the script using : <code>python3 rott.py </code></p>
